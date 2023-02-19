@@ -1,6 +1,12 @@
 import time
 from enum import Enum
 
+def how_to_squat():
+    print("1. Inhale until your abdominal is full to support your lower back.")
+    print("2. Squat with exhale and use your core muscles.")
+    print("3. Imagine your coccyx is lowering and make sure your lower back doesn't bend forward.")
+    print("4. Stand up with a breath and hip tilt forward.")
+    
 def start_focused_work():
     print("Imagine yourself as an expert in the work you are about to do.")
     time.sleep(5) # sleep for 5 second to give time to imagine
@@ -35,3 +41,4 @@ def calculate_ikigai():
     vocation = input("What is your vocation? ")
     ikigai_score = (passion + mission + profession + vocation) / 4
     return ikigai_score
+

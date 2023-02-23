@@ -42,3 +42,13 @@ def calculate_ikigai():
     ikigai_score = (passion + mission + profession + vocation) / 4
     return ikigai_score
 
+def how_to_flip_turn():
+    print("How to do a flip turn:")
+    print("1. Keep your palms against your hips.")
+    print("2. When you see the end of the pool edge, tuck your chin to your chest.")
+    print("3. Flip quickly until your face is facing up.")
+    print("4. Straighten your back.")
+    print("5. Kick your feet against the T printed on the wall.")
+    print("6. Perform a drill turn until you're facing down.")
+
+

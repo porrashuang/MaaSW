@@ -58,4 +58,11 @@ def how_to_flip_turn():
     print("6. Perform a drill turn until you're facing down.")
     how_to_dohpin_kick()
 
+def how_to_transform_knowledge_to_action():
+    print("How to transform knowledge to action:")
+    print("1. Admit that knowledge and short-term action are both emotions.")
+    print("2. Start with very small actions to create neural pathways in your brain.")
+    print("3. Visualize the action you want to take to overcome any current incentives that may be holding you back.")
+
+
 

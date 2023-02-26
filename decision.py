@@ -42,6 +42,12 @@ def calculate_ikigai():
     ikigai_score = (passion + mission + profession + vocation) / 4
     return ikigai_score
 
+def how_to_dolphin_kick():
+    print("How to do the dolphin kick:")
+    print("1. Raise your hips up when your feet kick down.")
+    print("2. Lower your hips when your feet rise up.")
+    print("3. Speed up the kicking motion to increase your speed.")
+
 def how_to_flip_turn():
     print("How to do a flip turn:")
     print("1. Keep your palms against your hips.")
@@ -50,5 +56,6 @@ def how_to_flip_turn():
     print("4. Straighten your back.")
     print("5. Kick your feet against the T printed on the wall.")
     print("6. Perform a drill turn until you're facing down.")
+    how_to_dohpin_kick()
 
 

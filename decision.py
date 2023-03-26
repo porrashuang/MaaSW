@@ -64,5 +64,9 @@ def how_to_transform_knowledge_to_action():
     print("2. Start with very small actions to create neural pathways in your brain.")
     print("3. Visualize the action you want to take to overcome any current incentives that may be holding you back.")
 
+def reach_for_suggestion(argument, famous_person):
+    print("As if you were", famous_person, ", please criticize the following argument:")
+    print(argument)
+    # Here you can prompt the user to provide their criticism or generate a response using ChatGPT
 
 
